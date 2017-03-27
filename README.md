@@ -1,7 +1,14 @@
 # FLY_US
 
+ > 我叫Jerry, 本科毕业于2009年，而后开发和维护[Nokia NetAct](http://networks.nokia.com/portfolio/solutions/netact)系统至2016年7月。
+ 
+ > 我于2016年8月8日起开始在，USC 美国南加州大学攻读 计算机科学 硕士学位。
+ 
+ > 我的[Linkedin账号](https://www.linkedin.com/in/hot13399), 微信(woshizn).
+ 
+ > 我收集的一些北美好用的服务：https://github.com/hot13399/FLY_US/blob/master/Referral.md
+ 
 FLY_US 是我收集的一些备考北美研究生的资料。
-
 包括美国大学信息:[高性价比大学及费用]，GRE还有托福资料。
 最新特别加入[《再要你命3000系列》]，包括原始的PDF版本。
 还有我亲自制作的，supermemo导入版本，和有道单词表导入版本：
@@ -30,7 +37,8 @@ GRE复习主要用：
 TOEFL复习主要用：
   > [TPO]
 
-  
+ 更多内容请浏览上面文件夹里的文件。
+
 如果你没有用过Github,但是想快速下载这里的内容。
 可以安装一个[git客户端],然后进入CMD或者Terminal。
 运行以下命令即可：

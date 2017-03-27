@@ -1,4 +1,3 @@
-
 Q:relinquish  [ri'liŋkwiʃ]
 A: ♠考法1  vt. 放弃（职位、权力等）： to give up (as a position of authority) formally
 A: ♣例  She relinquished his position to the company's vice president with very mixed feelings. 怀着十分复杂的情感，她放弃了公司副总裁的职位。
@@ -10598,13 +10597,6 @@ A: ♣例  I would never feign illness just to postpone a test. 我绝不会为�
 A: ♣近  affect, assume, counterfeit, dissemble, pretend, profess, sham, simulate
 A: ♣派  unfeigned adj. 没有伪装的，真诚的
 
-Q:feisty  ['faisti]
-A: ♠考法1  adj. 好斗的，好争论的： having or showing a lively aggressiveness
-
-Q:she was as feisty as ever. 尽管已经66岁高龄，她还是一样好斗。
-A: ♣近  aggressive, agonistic, assaultive, bellicose, belligerent, combative, contentious, disputatious, gladiatorial, militant, quarrelsome, truculent
-A: ♣反  pacific, peaceful, peace-loving 热爱和平的
-
 Q:fender  ['fendə]
 A: ♠考法1  n. 缓冲装置： a cushioning device, such as a bundle of rope or a piece of timber, used on the side of a vessel or dock to absorb impact or friction
 A: ♣例  a fender on the SUV 运动越野车的一个防护板
@@ -17949,8 +17941,7 @@ A: ♣近  equip, fit, prepare, ready, season, train
 Q:quandary  ['kwɔndəri]
 A: ♠考法1  n. 困惑，窘境： a state of perplexity or doubt
 A: ♣例  I've had two job offers, and I'm in a real quandary about/over which one to accept. 我有两个工作机会,但实在是进退两难，不知道应该选哪一个.
-
-Q:double bind
+A: ♣近  catch-22, double bind
 A: ♣反  state of complete certainty 胸有成竹
 
 Q:quarantine  ['kwɔrənti:n]
@@ -18658,14 +18649,7 @@ A: ♣反  banish, deport, expatriate 放逐，驱逐
 
 Q:repeal  [ri'pi:l]
 A: ♠考法1  vt. 撤销，废除（法律等）： to rescind or annul by authoritative act
-
-Q:Congress passed the 21st Amendment which repealed the Prohibition Amendment of 1919
-
-Q:thus making the sale
-
-Q:distribution
-
-Q:and use of alcohol legal once again. 1933年，国会通过了《第二十一修正案》，该法案废除了于1919年制订的《禁酒法》，从而使得酒的买卖、配送和使用再次合法化。
+A: ♣例  In 1933, Congress passed the 21st Amendment which repealed the Prohibition Amendment of 1919 thus making the sale distribution and use of alcohol legal once again. 1933年，国会通过了《第二十一修正案》，该法案废除了于1919年制订的《禁酒法》，从而使得酒的买卖、配送和使用再次合法化。
 A: ♣近  abort, abrogate, annul, cancel, disannul, invalidate, negate, null, nullify, rescind, revoke, vacate, void
 A: ♣反  continue, keep 继续执行；enact, establish, legislate 立法，制订
 A: ♠考法2  vt. 宣布与…决裂： to refuse to follow, obey, or recognize any further
